@@ -7,7 +7,7 @@ comments: true
 
 ## As a conversation Starter
 
-Here are some places I have lived.
+Here are some places I have lived before
 
 <comment>
 Flags are made using Wikipedia images
@@ -99,7 +99,7 @@ Flags are made using Wikipedia images
 
 ### Journey through Life
 
-Here is what I did at those places
+Here is my personal timeline of my life:
 
 - 🏫 Lots of Elementary Schools in Tucson, LA, Honolulu, and Glendale (CA)
 - 🏫 Middle and High School in Glendale (CA), Hoover High graduated '77
