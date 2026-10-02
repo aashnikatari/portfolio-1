@@ -1,0 +1,27 @@
+@import "materials/main.scss";
+@import "materials/main.scss";
+
+$button-padding: 12px 24px;
+$button-radius: 8px;
+
+.button {
+  background: $accent;
+  color: $text;
+  padding: $button-padding;
+  border-radius: $button-radius;
+
+  &:hover {
+    background: $blue;
+  }
+
+  .icon {
+    margin-right: 8px;
+  }
+}
+@import "button";
+
+%%html
+<button class="button">
+  <span class="icon">★</span>
+  Click Me
+</button>
