@@ -66,6 +66,20 @@ author: Aashni Katari
 | **Clarity** | 3 | Improved lesson structure and SASS grammar descriptions following peer feedback regarding original concept clarity. |
 | **Personal Growth** | 3 | Planning the SASS Buttons lesson made me much more comfortable with this topic. While the homework was helpful in introducing me to each topic, applying these skills in future projects will make me more confortable coding in Python|
 
+### Frontend, Backend and Data Foundations
+
+* Learned foundations of creating full-stack projects
+* Followed instructions well
+* Understood basics of frontend, backend, and data foundations
+* Gave and recieved help from teammates on setup
+
+| Category | Rating (1-5) | Summary / Justification |
+| :--- | :---: | :--- |
+| **Collaboration** | 4 | Worked well alongside table partners during the collaborative portion of the quiz. |
+| **Success** | 3 | Messed up setup, will write down specific instructions in notes next time to be able to follow at home |
+| **Clarity** | 3 | understood basics of frontend vs backend, and how to run the home screen |
+| **Personal Growth** | 3 | Recognized need for better notetaking strategies to retain information for future reference |
+
 ### College Board Quiz #1
 
 * Collaborated effectively with my group for the majority of the assessment.
