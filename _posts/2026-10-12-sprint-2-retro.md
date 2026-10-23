@@ -93,3 +93,45 @@ author: Aashni Katari
 | **Success** | 2 | Mismanaged time near the end, leading to rushed responses that distorted my final score. |
 | **Clarity** | 3 | Identified Skill 1.D as my primary technical weakness on the questions I completed thoroughly. |
 | **Personal Growth** | 3 | Recognized the need for better time management and know to focus on studying how to break down algorithm evaluation questions. |
+
+
+
+| ID | Area | Self Rank | Peer | Teacher | New Rank |
+| --- | --- | --- | --- | --- | --- |
+| T01 | Development Environment | 3 | = | 4 |
+| T02 | VS code | 2 | + | 3 |
+| T03 | Git / GitHub | 3 | = | 3 |
+| T04 | Portfolio / GitHub Pages | 2 | = | 3 |
+
+| ID | Area | Self Rank | Peer | Teacher | New Rank |
+|---|---|---:|:---:|:---:| --- |
+| T05 | Tools & Equipment Hacks | 2 | + | — | 3 |
+| T06 | Portfolio / Blogging Hacks | 2 | + | — | 3 |
+| T07 | Theme / Style / Layout | 2 | + | — | 2 |
+| T08 | JavaScript / Coding Challenges | 1 | + | — | 2 |
+| T09 | AI Orchestration | 3 | + | — | 3 |
+
+| ID | Area | Self Rank | Peer | Teacher | New Rank |
+|---|---|---:|:---:|:---:| --- |
+| T10 | Tech / Cyber Growth | 2 | + | — | 2 |
+| T11 | Learning Through Mistakes | 3 | + | — | 3 |
+| T12 | Tech / Cyber Talk | 2 | + | — | 3 |
+
+| ID | Area | Self Rank | Peer | Teacher | New Rank |
+|---|---|---:|:---:|:---:| --- |
+| P01 | Attendance / Tardy | 4 | = | — | 3 |
+| P02 | Work Habits | 4 | + | — | 3 |
+| P03 | Integrity | 4 | = | — | 2 |
+
+| ID | Area | Self Rank | Peer | Teacher | New Rank |
+|---|---|---:|:---:|:---:| --- |
+| P04 | Communication | 4 | = | — | 3 |
+| P05 | Help Seeking | 4 | = | — | 3 |
+| P06 | Mentoring / Advocacy | 4 | + | — | 3 |
+
+| ID | Area | Self Rank | Peer | Teacher | New Rank |
+|---|---|---:|:---:|:---:| --- |
+| P07 | Timeliness | 4 | + | — | 4 |
+| P08 | Persistence | 4 | = | — | 4 |
+| P09 | Organization | 4 | + | — | 3 |
+| P10 | Engagement | 3 | = | — | 2 |
