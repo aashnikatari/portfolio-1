@@ -103,6 +103,14 @@ author: Aashni Katari
 | T03 | Git / GitHub | 3 | = | - | 3 |
 | T04 | Portfolio / GitHub Pages | 2 | = | - | 3 |
 
+### Tools and Development Environment
+| ID | Area | Self Rank | Peer | Teacher | New Rank |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| T01 | Development Environment | 3 | = | - | 3 |
+| T02 | VS code | 2 | + | - | 3 |
+| T03 | Git / GitHub | 3 | = | - | 3 |
+| T04 | Portfolio / GitHub Pages | 2 | = | - | 3 |
+
 * As for technical skills, I spent for time and hence got more familiar with how to navigate VS Code, Github Portfolios, etc.
 * I was already sort of familiar with GitHub, so I kept that ranking the same.
 
