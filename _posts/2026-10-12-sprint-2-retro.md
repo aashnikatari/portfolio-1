@@ -95,14 +95,18 @@ author: Aashni Katari
 | **Personal Growth** | 3 | Recognized the need for better time management and know to focus on studying how to break down algorithm evaluation questions. |
 
 
-
+### Tools and Development Environment
 | ID | Area | Self Rank | Peer | Teacher | New Rank |
 | --- | --- | --- | --- | --- | --- |
-| T01 | Development Environment | 3 | = | 4 |
-| T02 | VS code | 2 | + | 3 |
-| T03 | Git / GitHub | 3 | = | 3 |
-| T04 | Portfolio / GitHub Pages | 2 | = | 3 |
+| T01 | Development Environment | 3 | = | - | 3 |
+| T02 | VS code | 2 | + | - | 3 |
+| T03 | Git / GitHub | 3 | = | - | 3 |
+| T04 | Portfolio / GitHub Pages | 2 | = | - | 3 |
 
+* As for technical skills, I spent for time and hence got more familiar with how to navigate VS Code, Github Portfolios, etc.
+* I was already sort of familiar with GitHub, so I kept that ranking the same.
+
+### Development and Creation
 | ID | Area | Self Rank | Peer | Teacher | New Rank |
 |---|---|---:|:---:|:---:| --- |
 | T05 | Tools & Equipment Hacks | 2 | + | — | 3 |
@@ -111,27 +115,50 @@ author: Aashni Katari
 | T08 | JavaScript / Coding Challenges | 1 | + | — | 2 |
 | T09 | AI Orchestration | 3 | + | — | 3 |
 
+* I became more fluent in tools and equipment hacks, memorizing some terminal commands and learning how to navigate GitHub and VS code
+* Through creating this retrospective and other .md files, I became familiar with how to create blogs and how to use markdown features
+* Still need to get more experience in changing theme/style/layout in practice
+* Doing the Lessons Homework made me more familiar with coding challenges basic javascript/python commands
+
+
+### Technical Awareness and Communication
 | ID | Area | Self Rank | Peer | Teacher | New Rank |
 |---|---|---:|:---:|:---:| --- |
-| T10 | Tech / Cyber Growth | 2 | + | — | 2 |
+| T10 | Tech / Cyber Growth | 2 | + | — | 3 |
 | T11 | Learning Through Mistakes | 3 | + | — | 3 |
 | T12 | Tech / Cyber Talk | 2 | + | — | 3 |
 
+* I became better at using the the tools and tech
+* Still have much to learn through working on more project
+
+### Core Behaviors
 | ID | Area | Self Rank | Peer | Teacher | New Rank |
 |---|---|---:|:---:|:---:| --- |
 | P01 | Attendance / Tardy | 4 | = | — | 3 |
-| P02 | Work Habits | 4 | + | — | 3 |
+| P02 | Work Habits | 4 | + | — | 2 |
 | P03 | Integrity | 4 | = | — | 2 |
 
+* I missed a few days of class due to not feeling well
+* I rushed the MCQ due to poor planning, which reflects a lack of integrity during that assignment
+* During one class, I wasn't focussing on the task at hand, reflecting a need to build better work habits and consideration for my teammates
+
+### Collaboration
 | ID | Area | Self Rank | Peer | Teacher | New Rank |
 |---|---|---:|:---:|:---:| --- |
 | P04 | Communication | 4 | = | — | 3 |
-| P05 | Help Seeking | 4 | = | — | 3 |
+| P05 | Help Seeking | 4 | = | — | 4 |
 | P06 | Mentoring / Advocacy | 4 | + | — | 3 |
 
+* Mr. Mort noted a communication issue within our group, and we need to take necessary measure to account for this and make sure we are on the same page
+* I ask a lot of questions to my teammates and those around me when I'm not sure of something.
+
+### Professional Skills
 | ID | Area | Self Rank | Peer | Teacher | New Rank |
 |---|---|---:|:---:|:---:| --- |
-| P07 | Timeliness | 4 | + | — | 4 |
+| P07 | Timeliness | 4 | + | — | 3 |
 | P08 | Persistence | 4 | = | — | 4 |
 | P09 | Organization | 4 | + | — | 3 |
-| P10 | Engagement | 3 | = | — | 2 |
+| P10 | Engagement | 3 | = | — | 3 |
+* Despite one instance, I always arrive to class on time; however, my poor planning of the Collegeboard assignment make my timeliness ranking go down
+* While we are trying to improve our organization of tasks through creating issues, we still could be more organized and clear about tasks that need to be completed
+* To improve engagement, I started to take lecture notes to make sure I remember what is taught in class
