@@ -97,7 +97,7 @@ author: Aashni Katari
 
 ### Tools and Development Environment
 | ID | Area | Self Rank | Peer | Teacher | New Rank |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :---: | :---: | :---: | :---: | :--- |
 | T01 | Development Environment | 3 | = | - | 3 |
 | T02 | VS code | 2 | + | - | 3 |
 | T03 | Git / GitHub | 3 | = | - | 3 |
